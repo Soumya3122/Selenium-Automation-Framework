@@ -12,3 +12,4 @@ public class LaunchTest {
         driver.quit();
     }
 }
+
